@@ -1,5 +1,4 @@
 import 'dart:ui';
-
 import 'package:flutter/material.dart';
 
 import 'model/JokeCard.dart';
@@ -7,6 +6,7 @@ import 'model/joke.dart';
 
 void main() {
   runApp(MyApp());
+
 }
 
 class MyApp extends StatelessWidget {
